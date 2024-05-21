@@ -1,4 +1,2 @@
 # fawadwebs
-This is my code i am webs
-<br>
-Author - fawad Aali
+Hi there! I'm a front-end developer passionate about bringing functionality and style together. I have a background in graphic design, which gives me a unique perspective when it comes to creating visually appealing and user-friendly interfaces. Whether it's designing responsive layouts, implementing complex animations, or optimizing performance, I always strive to deliver high-quality work that meets the needs of both the client and the end-user. Looking forward to collaborating with you!Hi there! I'm a front-end developer passionate about bringing functionality and style together. I have a background in graphic design, which gives me a unique perspective when it comes to creating visually appealing and user-friendly interfaces. Whether it's designing responsive layouts, implementing complex animations, or optimizing performance, I always strive to deliver high-quality work that meets the needs of both the client and the end-user. Looking forward to collaborating with you!
